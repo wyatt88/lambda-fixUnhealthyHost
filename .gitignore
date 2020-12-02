@@ -17,3 +17,6 @@
 
 # Go Module
 go.sum
+
+# Goland(IDE)
+.idea/
